@@ -1,6 +1,6 @@
 # nasa-apod
 
-A fully functional Inspirational Quote Generator which fetches quotes from forismatic API - features include: Generate New Quote with ability to share your quote on Twitter in real time. 
+A Nasa Blog Page for Space Lovers 👩‍🚀 🚀
 
 Technologies Used: 
 + HTML5 
