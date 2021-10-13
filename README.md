@@ -2,7 +2,7 @@
 
 A Nasa Blog Page for Space Lovers 👩‍🚀 🚀
 
-### [Live Site](https://tonykimdev.github.io/nasa-apod/)
+## [Live Site](https://tonykimdev.github.io/nasa-apod/)
 
 Technologies Used: 
 + HTML5 
