@@ -16,4 +16,7 @@ Learned:
 + Loading Animation 
 + Load More BUTTON to load more articles 
 + Lazy Loading to Improve Performance 
-+ Mobile Responsive 
+
+Mobile Responsive ![as](https://user-images.githubusercontent.com/68490255/137057792-6479703f-19c2-4c2f-baf2-a2ad782f6401.jpg)
+
+
